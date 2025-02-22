@@ -10,6 +10,13 @@
     <atom:link href="https://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
+      <link>https://example.org/posts/a-second-post/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/a-second-post/</guid>
+      <description>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/images/Pasted%20image%2020250222210158.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
       <link>https://example.org/posts/first-post/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://example.org/posts/first-post/</guid>
